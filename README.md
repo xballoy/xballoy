@@ -33,4 +33,3 @@ I'm Xavier, a Senior Full Stack Software Engineer with 10+ years of experience.
 #### Let's keep in touch
 
 [<img src="assets/linkedin.svg" width="24" height="24" alt="LinkedIn logo" title="LinkedIn" />](https://www.linkedin.com/in/xavierballoy/?locale=en_US)
-[<img src="assets/twitter.svg" width="24" height="24" alt="Twitter logo" title="Twitter" />](https://www.twitter.com/xballoy)
