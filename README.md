@@ -8,9 +8,8 @@ I work hard to provide **maintainable, extensible, and robust solutions**.
 ## ⚡️ Quick Facts
 
 - 💬 Ping me about **clean code, testing, TypeScript, React or Java**.
-- 🧐 I am learning about **Rust**.
 - 📝 I write articles on my [blog](https://xballoy.github.io/).
-- 👨‍🍳 I love cooking and ⛰️ hiking.
+- 👨‍🍳 I love photography, cooking and ⛰️ hiking.
 
 ## 🚀 Some Tools I Use
 
