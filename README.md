@@ -9,7 +9,7 @@ I work hard to provide **maintainable, extensible, and robust solutions**.
 
 - 💬 Ping me about **clean code, testing, TypeScript or React**.
 - 🧑‍🤝‍🧑️ I organize the meetup Software Crafters Québec.
-- 👨‍🍳 I love photography, cooking and ⛰️ hiking.
+- 💪 I love running and hiking.
 
 ## ✉️ Let's keep in touch
 
